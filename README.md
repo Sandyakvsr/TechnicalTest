@@ -20,3 +20,5 @@ Second Part:
 2. I have created a separate project and implemented the solution using Page Object Model. 
 
 To Execute:Run the test class MySociTest.java  in package com.sociproj.test.
+
+Happy Reading !
